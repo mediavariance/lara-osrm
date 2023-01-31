@@ -1,18 +1,18 @@
 {
-    "name": "dmgctrlr/lara-osrm",
+    "name": "mediavariance/lara-osrm",
     "description": "",
     "keywords": [
-        "dmgctrlr",
+        "mediavariance",
         "lara-osrm"
     ],
     "minimum-stability": "dev",
-    "homepage": "https://github.com/dmgctrlr/lara-osrm",
+    "homepage": "https://github.com/mediavariance/lara-osrm",
     "license": "MIT",
     "type": "library",
     "authors": [
         {
-            "name": "Daniel",
-            "email": "dm@mediavariance.com",
+            "name": "Rob",
+            "email": "r.n@mediavariance.com",
             "role": "Developer"
         }
     ],
